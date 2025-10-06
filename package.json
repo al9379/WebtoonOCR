@@ -1,0 +1,23 @@
+{
+  "name": "webtoonocr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/al9379/WebtoonOCR.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/al9379/WebtoonOCR/issues"
+  },
+  "homepage": "https://github.com/al9379/WebtoonOCR#readme",
+  "dependencies": {
+    "tesseract.js": "^6.0.1"
+  }
+}
